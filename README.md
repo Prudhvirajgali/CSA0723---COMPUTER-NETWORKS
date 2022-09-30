@@ -37,3 +37,18 @@
    17.Design the network model forSubnetting – Class C Addressing using packet tracer
    
    18.Simulating X, Y, Z Company Network Design and simulate using Packet Tracer
+   
+   19.Make a Computer Lab to transfer a message from one node to another to design and simulate using Cisco Packet Tracer
+   
+   20.Transport layer protocol header analysis using wireshark- TCP
+   
+   21.Network layer protocol header analysis using wireshark- IP
+   
+   22.Network layer protocol header analysis using wireshark- ICMP	
+   
+   23.Transport layer protocol header analysis using wireshark-UDP
+
+   24.Network layer protocol header analysis using wireshark- ARP
+
+   25.Network layer protocol header analysis using wireshark- HTTP
+
